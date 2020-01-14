@@ -22,6 +22,6 @@ for (var i = 1; i < 85; i++) {
   }
   else {
     numeriIndovinati++;
-    console.log(numeriIndovinati);
   }
 }
+console.log('hai indovinato' + ' ' + numeriIndovinati + ' ' + 'numeri');
